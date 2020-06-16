@@ -2,7 +2,7 @@
   {
     "modid": "strippedlogs",
     "name": "Stripped Logs",
-    "description": "",
+    "description": "Adds stripped logs to 1.12.2.",
     "version": "1.0.0",
     "credits": "Mojang for textures, outdated build of MCreator for helping me",
     "logoFile": "",

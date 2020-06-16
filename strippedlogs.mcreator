@@ -63,6 +63,7 @@
     "modid": "strippedlogs",
     "modName": "Stripped Logs",
     "version": "1.0.0",
+    "description": "Adds stripped logs to 1.12.2.",
     "author": "TheTank20",
     "websiteURL": "https://github.com/thepwrtank18/StrippedLogs/",
     "disableForgeVersionCheck": true,
