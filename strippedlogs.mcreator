@@ -8,21 +8,63 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "OakLogRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StrippedSpruceLog",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SpruceLogRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StrippedBirchLog",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BirchLogRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "tile.strippedoaklog.name": "Stripped Oak Log"
+      "tile.strippedsprucelog.name": "Stripped Oak Log",
+      "tile.strippedbirchlog.name": "Stripped Oak Log",
+      "tile.strippedoaklog.name": "Stripped Oak Wood"
     }
   },
   "workspaceSettings": {
     "modid": "strippedlogs",
     "modName": "Stripped Logs",
     "version": "1.0.0",
-    "author": "Leo, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "author": "TheTank20",
+    "websiteURL": "https://github.com/thepwrtank18/StrippedLogs/",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -30,6 +72,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "1.12.2",
+    "credits": "Mojang for textures, outdated build of MCreator for helping me",
     "modElementsPackage": "xyz.thetank.strippedlogs",
     "lockBaseModFiles": false
   },

@@ -4,13 +4,13 @@
     "name": "Stripped Logs",
     "description": "",
     "version": "1.0.0",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "Mojang for textures, outdated build of MCreator for helping me",
     "logoFile": "",
     "mcversion": "1.12.2",
-    "url": "https://mcreator.net",
+    "url": "https://github.com/thepwrtank18/StrippedLogs/",
     "updateUrl": "",
     "authorList": [
-      "Leo, MCreator"
+      "TheTank20"
     ],
     "dependencies": [],
     "dependants": [],

@@ -1,0 +1,17 @@
+{
+  "group": "strippedlogs",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:log",
+      "data": 1
+    },
+    {
+      "item": "minecraft:wooden_axe"
+    }
+  ],
+  "result": {
+    "item": "strippedlogs:strippedsprucelog",
+    "count": 1
+  }
+}

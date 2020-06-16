@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "strippedlogs:strippedbirchlog"
+    },
+    "facing=south": {
+      "model": "strippedlogs:strippedbirchlog"
+    },
+    "facing=north": {
+      "model": "strippedlogs:strippedbirchlog"
+    },
+    "facing=east": {
+      "model": "strippedlogs:strippedbirchlog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "strippedlogs:strippedbirchlog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "strippedlogs:strippedbirchlog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "strippedlogs:strippedbirchlog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

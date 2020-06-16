@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strippedlogs:blocks/stripped_spruce_log_top",
+    "up": "strippedlogs:blocks/stripped_spruce_log_top",
+    "north": "strippedlogs:blocks/stripped_spruce_log",
+    "east": "strippedlogs:blocks/stripped_spruce_log",
+    "south": "strippedlogs:blocks/stripped_spruce_log",
+    "west": "strippedlogs:blocks/stripped_spruce_log",
+    "particle": "strippedlogs:blocks/stripped_spruce_log_top"
+  }
+}
