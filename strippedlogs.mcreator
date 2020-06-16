@@ -48,6 +48,46 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "StrippedJungleLog",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JungleLogRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StrippedDarkOakLog",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DarkOakLogRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StrippedAcaciaLog",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -55,7 +95,10 @@
   "language_map": {
     "en_us": {
       "tile.strippedsprucelog.name": "Stripped Oak Log",
+      "tile.strippedjunglelog.name": "Stripped Jungle Wood",
+      "tile.strippeddarkoaklog.name": "Stripped Dark Oak Wood",
       "tile.strippedbirchlog.name": "Stripped Oak Log",
+      "tile.strippedacacialog.name": "Stripped Acacia Wood",
       "tile.strippedoaklog.name": "Stripped Oak Wood"
     }
   },
